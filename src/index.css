@@ -70,3 +70,10 @@ button:focus-visible {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/* @font-face {
+  font-family: 'Founder_Grotesk';
+  src: url('./Fonts/FoundersGrotesk-Semibold\ 2.ttf') format('truetype');
+} */
+
